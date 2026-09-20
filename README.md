@@ -17,20 +17,21 @@ VIDEO
    until you find the spot with the highest total spawning space. Place a glass block below.
 
 5. Only after the obsidian is in, paste in the schematic pattern above it midair, making sure it's aligned properly.
+   The schematic is under releases.
 
-6. Once the schematic is pasted, the purple concrete powder will not fall until it is updated, do //replacenear
+7. Once the schematic is pasted, the purple concrete powder will not fall until it is updated, do //replacenear
    200 purple_concrete_powder air and then //undo to update the blocks. Warning, it will be laggy.
 
-7. Once the purple concrete powder is on the obsidian, do //replacenear 200 purple_concrete_powder nether_portal
+8. Once the purple concrete powder is on the obsidian, do //replacenear 200 purple_concrete_powder nether_portal
 
-8. OPTIONAL. Try different rotations of the pattern. To measure which is best, 
+9. OPTIONAL. Try different rotations of the pattern. To measure which is best, 
 replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gains a few blocks.
 
-9. Add the magma block outline. Same as obsidian.
+10. Add the magma block outline. Same as obsidian.
 
-10. Using minihud, create a despawn sphere from the spot. Fly around and remove and chunks that aren't within the area or unwanted.
+11. Using minihud, create a despawn sphere from the spot. Fly around and remove and chunks that aren't within the area or unwanted.
 
-11. Using the command in the txt or manually, replace the bottom most layer with glass/tripwire for pack spawning.
+12. Using the command in the txt or manually, replace the bottom most layer with glass/tripwire for pack spawning.
 
 REMEMBER
 
