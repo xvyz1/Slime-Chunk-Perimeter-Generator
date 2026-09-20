@@ -12,7 +12,7 @@ VIDEO
 
 3. Input the commands, only do the obsidian platforms for now. Input the large command into a command block and power it from the side, ie button.
 
-4. Scroll to the bottom of the txt, there will be a repeating command block with /perimeterinfo.
+4. Scroll to the bottom of the txt, there will be a repeating command block command with /perimeterinfo.
    Replace a obsidian block with it and fly around, both vertically and horizontally,
    until you find the spot with the highest total spawning space. Place a glass block below.
 
