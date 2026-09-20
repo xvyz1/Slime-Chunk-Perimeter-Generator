@@ -6,7 +6,7 @@ Builds the floor of a sliced portal slime farm perimeter on a set seed, location
 
 VIDEO
 
-1. Firstly, create a superflat world with the chosen seed, slime chunk generation is unaffected.
+1. Firstly, create a superflat world with the chosen seed, slime chunk generation is unchanged.
 
 2. Open the program, input the seed, location, and the version. This will generate a .txt with the commands.
 
