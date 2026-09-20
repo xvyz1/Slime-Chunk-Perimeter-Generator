@@ -1,4 +1,4 @@
-# Slime Chunk Perimeter Gen
+# Slime Chunk Perimeter Generator
 
 Builds the floor of a sliced portal slime farm perimeter on a set seed, location, and version.
 
