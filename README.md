@@ -30,7 +30,7 @@ replace the concrete powder with glass and do /perimeterinfo from the spot. High
 
 10. Using minihud, create a despawn sphere from the spot. Fly around and remove and chunks that aren't within the area or unwanted.
 
-11. Using the command in the txt or manually, replace the bottom most layer with glass/tripwire for packspawning.
+11. Using the command in the txt or manually, replace the bottom most layer with glass/tripwire for pack spawning.
 
 REMEMBER
 
