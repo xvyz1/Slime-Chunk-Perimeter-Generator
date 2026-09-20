@@ -16,7 +16,7 @@ VIDEO
    Replace a obsidian block with it and fly around, both vertically and horizontally,
    until you find the spot with the highest total spawning space. Place a glass block below.
 
-5. Only after the obsidian is in, paste in the schematic pattern above it midair, making sure its aligned properly.
+5. Only after the obsidian is in, paste in the schematic pattern above it midair, making sure it's aligned properly.
 
 6. Once the schematic is pasted, the purple concrete powder will not fall until it is updated, do //replacenear
    200 purple_concrete_powder air and then //undo to update the blocks. Warning, it will be laggy.
@@ -24,7 +24,7 @@ VIDEO
 7. Once the purple concrete powder is on the obsidian, do //replacenear 200 purple_concrete_powder nether_portal
 
 8. OPTIONAL. Try different rotations of the pattern. To measure which is best, 
-replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gain a few blocks.
+replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gains a few blocks.
 
 9. Add the magma block outline.
 
