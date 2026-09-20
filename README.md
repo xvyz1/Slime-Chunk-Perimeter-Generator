@@ -36,7 +36,7 @@ REMEMBER
 
 Lightning will destroy portals.
 
-6.75//1.00 Local Difficulty.
+6.75//1.00 Local Difficulty. Hard.
 
 Only bother with turtle eggs for mobcap. Have a filtered storage, wandering traders spawn anyways.
 
