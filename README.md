@@ -38,7 +38,7 @@ Lightning will destroy portals.
 
 6.75//1.00 Local Difficulty.
 
-Don't bother with eggs, have a filtered storage. Wandering traders spawn anyways.
+Only bother with turtle eggs for mobcap. Have a filtered storage, wandering traders spawn anyways.
 
 ## Requirements
 
