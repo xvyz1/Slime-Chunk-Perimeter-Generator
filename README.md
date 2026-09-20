@@ -26,7 +26,7 @@ VIDEO
 8. OPTIONAL. Try different rotations of the pattern. To measure which is best, 
 replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gains a few blocks.
 
-9. Add the magma block outline.
+9. Add the magma block outline. Same as obsidian.
 
 10. Using minihud, create a despawn sphere from the spot. Fly around and remove and chunks that aren't within the area.
 
