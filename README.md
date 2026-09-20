@@ -34,9 +34,9 @@ replace the concrete powder with glass and do /perimeterinfo from the spot. High
 
 REMEMBER
 
-Lightning will destroy portals
+Lightning will destroy portals.
 
-6.75//1.00 Local Difficulty
+6.75//1.00 Local Difficulty.
 
 Don't bother with eggs, have a filtered storage. Wandering traders spawn anyways.
 
