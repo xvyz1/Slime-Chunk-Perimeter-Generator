@@ -4,7 +4,7 @@ Builds the floor of a sliced portal slime farm perimeter on a set seed, location
 
 ## Step By Step Guide
 
-VIDEO
+[VIDEO](https://www.youtube.com/watch?v=jxQhHYSfn-g)
 
 1. Firstly, create a superflat world with the chosen seed, slime chunk generation is unchanged.
 
