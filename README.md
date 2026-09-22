@@ -25,7 +25,7 @@ Builds the floor of a sliced portal slime farm perimeter on a set seed, location
 8. Once the purple concrete powder is on the obsidian, do //replacenear 200 purple_concrete_powder nether_portal
 
 9. OPTIONAL. Try different rotations of the pattern. To measure which is best, 
-replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gains a few blocks.
+replace the concrete powder with glass and do /perimeterinfo from the spot. Highest value is best. Usually gains a few blocks lower blocks.
 
 10. Add the magma block outline. Same as obsidian.
 
