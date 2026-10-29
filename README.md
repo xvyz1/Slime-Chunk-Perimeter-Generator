@@ -1,6 +1,6 @@
 # Slime Chunk Perimeter Generator
 
-Builds the floor of a sliced portal slime farm perimeter on a set seed, location, and version. Carpet and worldedit are needed.
+Builds the floor of a sliced portal slime farm perimeter on a set seed, location, and version. Carpet and worldedit are needed. Vibecoded.
 
 ## Step By Step Guide
 
