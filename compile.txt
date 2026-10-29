@@ -1,0 +1,9 @@
+Linux / macOS (gcc or clang):
+gcc -o SlimeChunkPerimeterGen -std=gnu11 -O2 -ffp-contract=off ./src/*.c ./src/*/*.c -lm -lpthread
+
+Windows (MinGW-w64):
+windres ./src/SlimeChunkPerimeterGen.rc -O coff -o SlimeChunkPerimeterGen.res
+gcc -o SlimeChunkPerimeterGen.exe -std=gnu11 -O2 -ffp-contract=off -static ./src/*.c ./src/*/*.c SlimeChunkPerimeterGen.res -lm
+
+Windows (Visual Studio, from a Developer Command Prompt):
+build.bat
